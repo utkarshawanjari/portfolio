@@ -1,0 +1,22 @@
+[
+    {
+        "key":1,
+        "title":"Emoji Recognization System",
+        "description":"An emoji recognition project involves developing a system that can identify and classify emojis in text or images. This project typically uses machine learning or deep learning techniques to process input data, such as text containing emojis or images of emojis, and predict the corresponding emoji class."
+    },
+    {
+        "key":2,
+        "title":"Career Counselling Chat-Bot",
+        "description":"A career counseling chatbot is an AI-powered tool designed to assist users in exploring career options, providing guidance on educational paths, and offering advice on job opportunities. The chatbot interacts with users in a conversational manner, asking questions to understand their interests, skills, and goals."
+    },
+    {
+        "key":3,
+        "title":"Bill-Splitting Web Application",
+        "description":"A bill-splitting web application allows users to easily divide expenses among a group of people. This application lets users input the total bill amount, specify participants, and allocate costs based on various criteria such as equal splits, individual items, or custom percentages."
+    },
+    {
+        "key":4,
+        "title":"Carz Makeover",
+        "description":"The Carz Makeover website is a platform designed for car enthusiasts and vehicle owners seeking car customization and detailing services. The website showcases various services such as paint jobs, interior detailing, body modifications, and more."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "Education":"B-tech In Computer Science And Engineering",
+        "PassOut":2024,
+        "University":"RTMNU",
+        "Location":"NAGPUR",
+        "Score":8.13 
+    },
+    {
+        "id":2,
+        "Education":"Diploma In Information Technology",
+        "PassOut":2021,
+        "Boards":"MSBTE",
+        "Location":"NAGPUR",
+        "Score":86.13 
+    },
+    {
+        "id":3,
+        "Education":"Higher Secondary Certificate",
+        "PassOut":2018,
+        "Boards":"Maharashtra State Board",
+        "Location":"NAGPUR",
+        "Score":60.00 
+    },
+    {
+        "id":4,
+        "Education":"Secondary School Certificate",
+        "PassOut":2016,
+        "Boards":"Maharashtra State Board",
+        "Location":"NAGPUR",
+        "Score":79.00 
+    } 
+]

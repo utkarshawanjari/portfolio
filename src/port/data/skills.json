@@ -1,0 +1,34 @@
+[
+    {
+        "title":"HTML",
+        "imageSrc":"skills/html.jpeg"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"skills/css.jpeg"
+    },
+    {
+        "title":"Bootstrap",
+        "imageSrc":"skills/bootstrap.png"
+    },
+    {
+        "title":"JS",
+        "imageSrc":"skills/javascript.jpeg"
+    },
+    {
+        "title":"React JS",
+        "imageSrc":"skills/react.png"
+    },
+    {
+        "title":"JAVA",
+        "imageSrc":"skills/java.png"
+    },
+    {
+        "title":"Spring-Boot",
+        "imageSrc":"skills/springboot.png"
+    },
+    {
+        "title":"My-SQL",
+        "imageSrc":"skills/mysql.png"
+    }
+]
