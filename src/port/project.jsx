@@ -5,7 +5,7 @@ import "./port.css"
 const Project = () => {
     return (
         <>
-            <div classNameName="container project my-3" id="project">
+            <div className="project my-3" id="project">
                 <h1>Projects</h1>
                 <div className="row d-flex justify-content-center align-items-center">
                     {project.map((data) => (

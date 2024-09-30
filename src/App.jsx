@@ -17,13 +17,11 @@ function App() {
   return (
     <>
     <Navigation/> 
-    <div className="container">
-      <Home/>  
-      <Education/>
-      <Skills/>
-      <Project/>
-      <Contact/>
-    </div>
+    <Home/>  
+    <Education/>
+    <Skills/>
+    <Project/>
+    <Contact/>
     </>
   )
 }

@@ -10,7 +10,7 @@ import "./port.css"
 const Contact = () => {
     return (
         <>
-            <div className="container contact" id="contact">
+            <div className="contact" id="contact">
                 <h1>CONTACT ME</h1>
                 <div className="contact-icon" data-aos="zoom-in" data-aos-duration="1000">
                     <a href="https://www.instagram.com/utkarshawanjari?igsh=MTJjZnNtOTFtd2Q5OA==" className="items-icon">
@@ -32,6 +32,13 @@ const Contact = () => {
                         <MdEmail className="icons"/>
                     </a>
                 </div>
+            </div>
+            <div className="footer">
+                    <p>2024 Utkarsha Wanjari. All Rights Reserved.
+                        <br />
+                        Designed By Utkarsha Wanjari.
+                        Developed By React.
+                    </p>
             </div>
         </>
     )

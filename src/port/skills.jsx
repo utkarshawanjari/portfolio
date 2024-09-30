@@ -5,7 +5,7 @@ import "./port.css"
 const Skills =()=>{
     return(
         <>
-            <div className="skills container" id="skills">
+            <div className="skills" id="skills">
                 <h1>SKILLS</h1>
                 <div className="items-container">
                 {skills.map((data)=>(
